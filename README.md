@@ -4,4 +4,5 @@
 
 **Authors:** Carlos Henrique Conceição Sousa, Alan Mario Zuffo, Bruno Rodrigues de Oliveira, Francisco Charles dos Santos Silva, Ricardo Mezzomo, Leandra Matos Barrozo, Tatiane Scilewski da Costa Zanatta, Joel Cabral dos Santos, Yago Pinto Coelho, Aurilucia do Nascimento Silva Caldas
 
+Description of experimental area:
 <img src="map.png">
